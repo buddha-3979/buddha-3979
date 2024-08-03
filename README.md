@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buddha979
 - 👀 I’m interested in learning english
-- 🌱 I’m currently learning about Microsoft's Azure, the program that supported this VM.
+- 🌱 I’m currently a student
 - 💞️ I work alone lol
 - 📫 Where to reach me: @Buddha3979.com
 - 😄 Pronouns: He/Him
