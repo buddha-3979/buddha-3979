@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @buddha-3979
-- 👀 I’m interested in learning english
-- 🌱 I’m currently a student
-- 💞️ I’m looking to collaborate Buddha3979
-- 📫 How to reach me you can search in github buddha-3979
-- 😄 Pronouns: Buddha3979
-- ⚡ Fun fact: Buddha3979
-
-<!---
-buddha-3979/buddha-3979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Buddha979
+👀 I’m interested in hosting GamingOnCodespaces virtual machines
+🌱 I’m currently learning about Microsoft's Azure, the program that supported this VM.
+💞️ I work alone lol
+📫 Where to reach me: @Buddha3979.com
+😄 Pronouns: He/Him
+⚡ Fun fact: Virtual machines are 100% useful
+👤 Only @Buddha3979 is my accounts. Any other are impersonating me. Don't fall for their scam.
