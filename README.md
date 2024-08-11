@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Buddha3979
 - 👀 I’m interested in learning english
 - 🌱 I’m currently a student
-- 💞️ I learn alone lol
+- 💞️ I learn alone
 - 📫 Where to reach me: @Buddha3979.com
 - 😄 Pronouns: He/Him
 - ⚡  Fun fact: Virtual machines are 100% useful
