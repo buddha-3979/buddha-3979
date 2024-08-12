@@ -6,3 +6,9 @@
 - 😄 Pronouns: He/Him
 - ⚡  Fun fact: Virtual machines are 100% useful
 - 👤  Only @Buddha3979 is my account. Any other are impersonating me. Don't fall for their scam.
+- This is my organization. It is about HTML: https://github.com/organization-about-HTML
+- This is my organization. It is about JavaScript: https://github.com/organization-about-JavaScript
+- This is my organization. It is about None: https://github.com/organization-about-None
+- This is my organization. It is about Python: https://github.com/organization-about-Python
+- This is my organization. It is about SaltStack: https://github.com/organization-about-SaltStack
+- This is my organization. It is about Shell: https://github.com/organization-about-Shell
